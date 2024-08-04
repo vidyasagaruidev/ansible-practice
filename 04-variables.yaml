@@ -5,7 +5,6 @@
     trainer: "Sagar"
     duration: "300hrs"
   tasks:
-  vars :
   - name: "Varibales accessing"
     vars:
      course: "Devops"
