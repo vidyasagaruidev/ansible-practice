@@ -8,8 +8,8 @@
     - Docker
     Experience:
       Devops: 3
-      AWS:2
-      WebDevelopment:5
+      AWS: 2
+      WebDevelopment: 5
     RealProject: true
   tasks:
   - name: Print variables
