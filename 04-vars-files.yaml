@@ -1,6 +1,6 @@
 - name: Varaibles files accessing
   hosts: localhost
-  vars:
+  vars_files:
     - vars.yaml
   tasks:
   - name: Varaible accessing
