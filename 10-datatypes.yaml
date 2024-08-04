@@ -1,5 +1,5 @@
 - name: Data types
-  hosts:localhost
+  hosts: localhost
   vars:
     course: Aws with Devops
     Tools:
